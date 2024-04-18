@@ -3,8 +3,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=60FF7E00&random=false&width=435&center=true&vcenter=true&width=1000&lines=Hello%2C+My+name+is+Felipe+Ponce;+I'm+25+years+old++I+from+Brazil)](https://git.io/typing-svg)  
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeponcee&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Ponce github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeponcee&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeponcee&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Ponce github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeponcee&layout=compact&hide_border=true&title_color=4B0082&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipeponcee&bg_color=000000&color=8A2BE2&line=ffffff&point=50007a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
